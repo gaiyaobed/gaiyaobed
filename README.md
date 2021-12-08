@@ -69,4 +69,4 @@
 [![website](https://img.shields.io/badge/gaiyaobed-blue?style=flat-square&logo=google-chrome)](https://gaiyaobed.com.ng/)
 [![Linkedin: gaiyaobed](https://img.shields.io/badge/-gaiyaobed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/obed-m-gaiya-128467180/)](https://www.linkedin.com/in/obed-mathias-gaiya-128467180/)
 
-<!--![Gaiyadev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gaiyadev&count_private=true&theme=dark&show_icons=true&&line_height=40)-->
+<!--![Gaiyadev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gaiyaobed&count_private=true&theme=dark&show_icons=true&&line_height=40)-->
