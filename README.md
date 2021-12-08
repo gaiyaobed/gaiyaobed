@@ -57,11 +57,11 @@
 
 
 
-<a href="https://github.com/gaiyadev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaiyadev&theme=light&hide_langs_below=1"/>
+<a href="https://github.com/gaiyaobed">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaiyaobed&theme=light&hide_langs_below=1"/>
 </a>
 <a href="https://github.com/gaiyaobed">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=gaiyadev&show_icons=true&theme=light&line_height=27" alt="gaiyaobed's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=gaiyaobed&show_icons=true&theme=light&line_height=27" alt="gaiyaobed's github stats"/>
 </a>
 
 [![Twitter: gaiyaobed](https://img.shields.io/twitter/follow/gaiyaobed?style=social)](https://twitter.com/gaiyaobed)
