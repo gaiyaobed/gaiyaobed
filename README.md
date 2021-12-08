@@ -20,11 +20,11 @@
 <br/>
 
 
-- 🔭 I’m currently working on a startup for myself.
+- 🔭 I’m currently working from home.
 - 🌱 I’m currently learning how to be a versatile and dynamic Web and Mobile Developer.
 - 👯 I’m looking to collaborate on any project that would involve using real world data to solve real world problems and add more money to my bank account.
 - 🤔 I’m looking for help on how to make the billions at a very young age .
-- 💬 Ask me about Javascript or Flutter if I don't know it, I would get back to you.
+- 💬 Ask me about Javascript if I don't know it, I would get back to you.
 - 📫 How to reach me: Check me on all my handles above.
 - 😄 Pronouns: Him/He.
 - ⚡ Fun fact: i am an introvert and i love to rapping.
