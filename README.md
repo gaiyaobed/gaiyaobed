@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Gaiya M. Obed, a self taught Software Developer. I'm madly in love with JavaScript and it's frameworks. I'm passionate about Development, Teaching and writing clean and readable codes.
+### Hi there 👋 I'm Gaiya M. Obed, a self taught Software Engineer. I'm madly in love with JavaScript and it's frameworks. I'm passionate about Development, Teaching and writing clean and readable codes.
 
 <a href="https://twitter.com/gaiyaobed">
   <img align="left" alt="Obed's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
